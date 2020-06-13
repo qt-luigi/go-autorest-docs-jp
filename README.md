@@ -72,7 +72,7 @@ autorestオブジェクトおよびメソッドによって発生したエラー
 
 ### Swagger日付の処理
 
-AutoRest（https://github.com/Azure/autorest/）を駆動するSwagger仕様（https://swagger.io）は、日付と日付時刻の2つの日付形式を正確に定義しています。
+AutoRest（https://github.com/Azure/autorest/) を駆動するSwagger仕様 (https://swagger.io) は、日付と日付時刻の2つの日付形式を正確に定義しています。
 github.com/Azure/go-autorest/autorest/date パッケージは、正しい解析とフォーマットを確実にするための派生time.Timeを提供します。
 
 ### 空の値の処理
